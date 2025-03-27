@@ -1,31 +1,3 @@
-Skip to main content
-Google Classroom
-Classroom
-NOV OL FN
-Home
-Calendar
-Enrolled
-To-do
-N
-NOV OL FN
-I
-I MSC CS - 2022 BATCH
-M
-Machine learning
-MSc cs
-D
-DBX grade 4 Competition
-Archived classes
-Settings
-MILESTONE 2 PROJECT  MILESTONE 2 PROJECT
-MILESTONE 2 PROJECT 
-Archana B
-•
-Mar 10
-100 points
-MILESTONE2 ASSESMENT -17 .03.2025
-MILESTONE 2 PROJECT -25.03.2025
-
 CountriesWorld.sql
 SQL
 
@@ -39,11 +11,7 @@ PopulationPerCountry.csv
 CSV
 
 Project Description - Excel, SQL, Stats, Power BI.pdf
-PDF
-Class comments
-Your work
-Assigned
-Private comments
+
 DROP DATABASE IF EXISTS countries;
 
 CREATE DATABASE countries;
